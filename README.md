@@ -10,5 +10,5 @@
 <li>Git e Github</li>
 </ul>
 
-<p>CONFIRA O PROJETO <a href="https://marsinhor.github.io/Plataforma-de-Perguntas" target="_blank">AQUI</a></p>
+<p>CONFIRA O PROJETO NO FIGMA ATRAVÉS DO <a href="https://www.figma.com/community/file/1009821158959690135" target="_blank">LINK</a></p>
 # Plataforma-De-Perguntas
