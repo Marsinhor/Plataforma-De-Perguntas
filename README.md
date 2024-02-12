@@ -10,5 +10,5 @@
 <li>Git e Github</li>
 </ul>
 
-<p>CONFIRA O PROJETO <a href="https://marsinhor.github.io/pagina-de-links" target="_blank">AQUI</a></p>
+<p>CONFIRA O PROJETO <a href="https://marsinhor.github.io/Plataforma-de-Perguntas" target="_blank">AQUI</a></p>
 # Plataforma-De-Perguntas
